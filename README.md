@@ -1,3 +1,3 @@
-# Maquette
+# Production
 
-Version *en chantier* du site de l'AALE. Elle sera transférée sur le site *production* après validation des contenus.
+Version *production* du site de l'AALE. Elle est transférée depuis le site *maquette* après validation des contenus.

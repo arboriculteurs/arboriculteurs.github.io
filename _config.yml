@@ -6,6 +6,7 @@ simpleform-token: "https://getsimpleform.com/messages?form_api_token=1ff389174bd
 title: Association des Arboriculteurs de Lichtenberg et Environs
 email: webmestre@arboriculteurs-lichtenberg.eu
 description: "Le site officiel de l'AALE (Association des Arboriculteurs de Lichtenberg et Environs)."
+lang: fr-FR
 
 # Team names, titles and social links
 people:
@@ -37,7 +38,9 @@ people:
   pic: Clement_Jolibois
   position: Assesseur
 
-
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-seo-tag

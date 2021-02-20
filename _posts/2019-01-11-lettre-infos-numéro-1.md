@@ -15,9 +15,9 @@ Chers membres, chers adhérents, chers partenaires,
 
 Je profite de cette mise à jour de notre site pour vous présenter au nom du comité et de moi-même nos meilleurs vœux pour l’année 2021.  
 
-La situation sanitaire 2020 et celle que nous vivons encore fait que la vie de notre association a bien changé. Très peu de manifestations à part notre journée jus de pommes, qui fut une totale réussite, organisée en octobre 2020 avec toutes les règles sanitaires en vigueur ainsi que notre Assemblée générale organisée également avec toutes les précautions. Je vous laisse découvrir le compte rendu de l’AG qui se trouve dans l'article qui lui est dédié.  
+La situation sanitaire 2020 et celle que nous vivons encore fait que la vie de notre association a bien changé. Très peu de manifestations à part notre **journée jus de pommes**, qui fut une totale réussite, organisée en octobre 2020 avec toutes les règles sanitaires en vigueur ainsi que notre **Assemblée générale** organisée également avec toutes les précautions. Je vous laisse découvrir le compte rendu de l’AG dans l'article qui lui est dédié.  
 
-Notre association se porte bien malgré cette difficile conjoncture, et comme le dis si bien cette citation *après chaque pluie apparaîtra à nouveau le soleil*, c’est ce que nous espérons au plus vite pour tout le monde, pour vous, nos activités et notre association.
+Notre association se porte bien malgré cette difficile conjoncture, et comme le dit si bien cette citation *après chaque pluie apparaîtra à nouveau le soleil*, c’est ce que nous espérons au plus vite pour tout le monde, pour vous, nos activités et notre association.
 En attendant des jours meilleurs, chers membres, chers partenaires je ne peux dire qu’une chose, faites attention à vous et vos proches, protégez-vous et les autres et respectez absolument les gestes barrières. 
 
 Je vous réitère au nom du comité nos vœux de bonne santé, que bonheur, paix et joie vous soient apportées tout au long de cette année 2021

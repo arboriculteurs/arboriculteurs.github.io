@@ -1,6 +1,6 @@
 ---
 title: Stage de distillation
-subtitle: Prochain stage en 2021
+subtitle: Prochain stage en 2022
 layout: default
 modal-id: 12
 date: 2018-02-09

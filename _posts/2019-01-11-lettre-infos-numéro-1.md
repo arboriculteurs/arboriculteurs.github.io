@@ -13,13 +13,14 @@ doc-input: "Bulletin d'inscription à l'AALE"
 ## Le mot du président ##
 Chers membres, chers adhérents, chers partenaires,
 
+Je profite de cette mise à jour de notre site pour vous présenter au nom du comité et de moi-même nos meilleurs vœux pour l’année 2021.  
 
-Je profite de cette mise à jour de notre site pour vous présenter **nos meilleurs vœux**, au nom du comité et de moi-même. Nous vous souhaitons avant tout, à vous et à vos proches, une bonne santé, que bonheur, paix et joie vous soient apportés tout au long de cette année 2020. Qu’elle soit une année fructueuse à tous les niveaux mais aussi en fruits dans vos vergers et en miel dans nos ruches.
+La situation sanitaire 2020 et celle que nous vivons encore fait que la vie de notre association a bien changé. Très peu de manifestations à part notre journée jus de pommes, qui fut une totale réussite, organisée en octobre 2020 avec toutes les règles sanitaires en vigueur ainsi que notre Assemblée générale organisée également avec toutes les précautions. Je vous laisse découvrir le compte rendu de l’AG qui se trouve dans l'article qui lui est dédié.  
 
-<!-- Vous trouverez dans ce courrier les dernières informations sur notre association et je vous en souhaite une bonne lecture. -->
+Notre association se porte bien malgré cette difficile conjoncture, et comme le dis si bien cette citation *après chaque pluie apparaîtra à nouveau le soleil*, c’est ce que nous espérons au plus vite pour tout le monde, pour vous, nos activités et notre association.
+En attendant des jours meilleurs, chers membres, chers partenaires je ne peux dire qu’une chose, faites attention à vous et vos proches, protégez-vous et les autres et respectez absolument les gestes barrières. 
 
-Dorénavant toute information sera diffusée sur notre site internet, ceci pour une question pratique, d’économie ainsi qu’une meilleure gestion de notre association.
-Les personnes n’ayant pas internet sont priées de se faire connaitre auprès du président, nous leur enverrons les infos sous forme papier.
+Je vous réitère au nom du comité nos vœux de bonne santé, que bonheur, paix et joie vous soient apportées tout au long de cette année 2021
 
 <p class="signature">Le président : Yves KLEIN</p>
 
